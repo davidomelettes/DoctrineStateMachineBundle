@@ -12,9 +12,9 @@
         }
     ],
     "require": {
-        "symfony/yaml": "~2.3",
-        "symfony/framework-bundle": "~2.3",
-        "doctrine/doctrine-bundle": "~1.2",
+        "symfony/yaml": "~3.0",
+        "symfony/framework-bundle": "~3.0",
+        "doctrine/doctrine-bundle": "~2.5",
         "kphoen/doctrine-state-machine": "~1.0"
     },
     "require-dev": {
